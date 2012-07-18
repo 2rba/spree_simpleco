@@ -1,21 +1,10 @@
 SpreeSimpleco
 =============
 
-Introduction goes here.
+Simple checkout for spree commerce.
+Instead of full checkout process, this extension only ask contact information.
 
+Just add to Gemfile
 
-Example
-=======
+gem 'spree_simpleco',:git => 'https://github.com/2rba/spree_simpleco.git'
 
-Example goes here.
-
-Testing
--------
-
-Be sure to bundle your dependencies and then create a dummy test app for the specs to run against.
-
-    $ bundle
-    $ bundle exec rake test_app
-    $ bundle exec rspec spec
-
-Copyright (c) 2012 [name of extension creator], released under the New BSD License
